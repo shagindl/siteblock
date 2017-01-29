@@ -13,7 +13,10 @@
 +scratch.mit.edu
 +github.com
 +wikipedia.org
++login.live.com
++account.microsoft.com
 
--www.sourcetreeapp.com
--www.google.ru/search
--www.google.ru/webhp
++www.sourcetreeapp.com
++www.google.ru/search
++www.google.ru/webhp
+
